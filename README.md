@@ -1,3 +1,3 @@
 # ocaml-lang-template
 
-You can change extension in Main.ml the variable ext 
+You can change extension in Main.ml by changing the variable ext 
