@@ -1,0 +1,8 @@
+Interpreter.cmo : SourceAst.cmo
+Interpreter.cmx : SourceAst.cmx
+Main.cmo : Printer.cmo Interpreter.cmo
+Main.cmx : Printer.cmx Interpreter.cmx
+Printer.cmo : SourceAst.cmo
+Printer.cmx : SourceAst.cmx
+SourceAst.cmo :
+SourceAst.cmx :
